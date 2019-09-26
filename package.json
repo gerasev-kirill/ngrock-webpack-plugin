@@ -46,6 +46,6 @@
         "lib/"
     ],
     "dependencies": {
-        "ngrok": "^2.2.22"
+        "ngrok": "^3.2.5"
     }
 }
